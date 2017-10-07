@@ -1,0 +1,10 @@
+//hzy 20171007
+//test
+
+void()
+
+while
+{
+   // printf hello world!;
+
+}
